@@ -1,2 +1,6 @@
 # Hashing-Algorithm-Analysis
-Tests out commonly used hashing algorithms.  Times hashing files of various sizes and provides analysis of collisions.
+Written in python 3. 
+
+Uses SHA256 and BLAKE2.  
+
+Times hashing files of various sizes and provides analysis of collisions.
